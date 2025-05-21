@@ -67,9 +67,7 @@ Price	Launch cost (with missing values)
 MissionStatus	Success, failure, or other status
 
 Repository Structure
-bash
-Copy
-Edit
+
 ├── README.md                     # Project documentation  
 ├── SpaceMissionsDashboard.pbix  # Power BI dashboard file  
 ├── dataset/                     # Raw and cleaned data files  
